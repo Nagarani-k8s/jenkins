@@ -4,4 +4,4 @@ metadata:
   name: myconfigmap
 data:
   mykey: key
-  myvalue: myval  
+  myvalue: myval1  
